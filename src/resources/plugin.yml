@@ -1,0 +1,4 @@
+name: EndPortalCommand
+version: '1.0'
+main: epc.EndPortalCommand
+api-version: '1.21'
