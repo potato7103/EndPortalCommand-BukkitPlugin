@@ -1,2 +1,4 @@
-command: /warp pvp
+command: warp pvp
+# Please do not write the first slash of the command
+# However, for commands that require two slashes, such as world edit, please write the slashes
 cancel-teleport: true
